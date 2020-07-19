@@ -23,7 +23,7 @@
         <zookeeper.version>2.12.0</zookeeper.version>
         <lombok.version>1.16.20</lombok.version>
         <hession.version>4.0.63</hession.version>
-        <apache-commons.version>4.0</apache-commons.version>
+        <apache-commons.version>4.1</apache-commons.version>
     </properties>
 
     <dependencies>
